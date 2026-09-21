@@ -1,0 +1,6 @@
+﻿jmdict_id,term,reading,field_id,kind,source_en,source_ja,current_zh,reviewer_note_unverified
+1409330,体感,たいかん,f37e1821t4,gloss,coenesthesia,,共感,coenesthesia 的中文医学术语可译为机体觉、内感受或一般感觉，旧译‘共感’易与 empathy 混淆，但需统一术语来源后再改；t5、t6 同理。
+1409330,体感,たいかん,f37e1821t5,gloss,cenesthesia,,共感,cenesthesia 的标准简体中文术语存在机体觉、内感受等译法，当前‘共感’疑似不当但无法仅凭本批次确定统一定译。
+1409330,体感,たいかん,f37e1821t6,gloss,coenesthesis,,共感,coenesthesis 与 coenesthesia 同属专业术语，需统一医学词表后确定简体中文译名。
+2849827,ミス,ミス,f196e1406t0,gloss,myth,,神话,英文 myth 与日语词头ミス不一致；旧译符合英文但源词可能有误，无法可靠改动。
+1530180,無条件,むじょうけん,f49e517t1,example,On no account must you touch that switch.,無(む)条(じょう)件(けん)にあなたはそのスイッチに触(さわ)らなければならない。,无论如何，你都必须碰那个开关。,日文例句直译为必须触碰，但英文释义例句为禁止触碰，源文冲突，保留原译并记录疑点。

@@ -1,0 +1,32 @@
+{
+  "groups_reviewed": 11531,
+  "groups_total": 11531,
+  "fields_reviewed": 86698,
+  "fields_total": 86698,
+  "batches_reviewed": 343,
+  "unique_field_corrections": 1598,
+  "uncertain_fields": 5,
+  "complete": true,
+  "completed_at": "2026-09-21T05:41:37.652117+00:00",
+  "reviewed_ids": 10556,
+  "changed_ids": 1044,
+  "changed_variant_rows": 1667,
+  "expanded_field_corrections": 2222,
+  "changed_banks": 149,
+  "total_rows": 435448,
+  "unchanged_rows": 433781,
+  "severity": {
+    "major": 1051,
+    "minor": 481,
+    "critical": 66
+  },
+  "source_and_baseline_unchanged": true,
+  "only_planned_field_contents_changed": true,
+  "package_file_count": 471,
+  "package_bytes": 36767898,
+  "package_sha256": "8896e3f0ce10ecd30770c4954a0ee1b0ef0aa3bfd4b6ec155181ecec6ed8f411",
+  "archive_crc_and_hashes_valid": true,
+  "attribution_and_assets_preserved": true,
+  "package_filename": "jitendex-yomitan-zh-common5pct-luna.zip",
+  "severity_note": "Reviewer-assigned labels; not independently calibrated or an accuracy estimate."
+}
