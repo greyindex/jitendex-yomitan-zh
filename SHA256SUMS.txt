@@ -1,1 +1,1 @@
-8896e3f0ce10ecd30770c4954a0ee1b0ef0aa3bfd4b6ec155181ecec6ed8f411  jitendex-yomitan-zh-common5pct-luna.zip
+7777aeaebb44ba08a7420cfad46b68cd5b9ab488215bb7a27883333c55dc9263  jitendex-yomitan-zh-common20pct-gpt6-luna.zip

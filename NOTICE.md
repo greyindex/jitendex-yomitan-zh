@@ -19,6 +19,8 @@ Jitendex includes material from several copyrighted sources in compliance with t
 
 2026-09-21 发布的第二次校订版使用 GPT-5.6 Luna 对选定常用词条的中文释义、例句和辅助说明进行模型校对，并保留上述署名和许可。此修改不代表 Jitendex、EDRDG 或 Tatoeba 对译文的认可。
 
+2026-09-23 的常用 20% 校订版在上述基础上由 GPT-6 Luna 审读新增 5%–20% 范围，继承前 5% 校订成果，并保留原署名和许可。此修改同样不代表上游项目对译文的认可。
+
 校对范围的词频数据及仓库中的衍生词表来源于 **Jiten Global 2026-09-19（Jiten 26-09-19）**，按 **CC BY-SA 4.0** 使用。衍生名单对原数据进行了词形与读音匹配、去重和排序；词频不等同于每个义项的出现频率。
 
 - [Jiten 词频数据与语料说明](https://jiten.moe/frequency-dictionaries)

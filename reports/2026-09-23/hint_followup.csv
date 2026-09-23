@@ -1,0 +1,9 @@
+﻿jmdict_id,term,reading,field_id,source_en,source_ja,old_zh,action,resulting_zh,reason
+1631600,アっと,アっと,f61e1361t0,"with a (cry of) ""ah!""",,（发出）“啊！”的一声（的）,retain,（发出）“啊！”的一声（的）,EN限定为带有“啊”这一叫声的状态；现译虽有括号堆叠，但核心意思明确，没有足以改变词义的错译。
+1631600,アっと,アっと,f61e1361t1,"with a shout (of surprise, shock, etc.)",,（发出）惊叫（的）,retain,（发出）惊叫（的）,EN是带有惊讶或震惊等情绪的叫喊；现译“（发出）惊叫”准确传达该义，问题仅是括注略显生硬。
+1646760,進言,しんげん,f63e384t4,recommendation,,推荐,retain,推荐,该词是向上级进言；此处 recommendation 可指正式提出的推荐性意见，“推荐”并未构成明确错义，邻近义项也已涵盖建议。
+1322930,社内,しゃない,f29e971t0,within a company,,社内,retain,社内,EN明确为 within a company；“社内”虽带日语词形且较少用于普通中文，但含义可辨，属于表达选择而非确定的实质错译。
+1236090,強いて言えば,しいていえば,f21e315t4,"I don't know if you'd call it a hobby, but to stretch it a little, you could say music appreciation is my hobby.",これと言(い)って趣(しゅ)味(み)はないんですが、強(し)いて言(い)えば、音(おん)楽(がく)鑑(かん)賞(しょう)ですかね。,这算不上什么特别的爱好，但如果非要说，大概是音乐鉴赏吧。,retain,这算不上什么特别的爱好，但如果非要说，大概是音乐鉴赏吧。,日文表示没有特别值得一提的爱好，勉强说的话是音乐鉴赏；现译“算不上什么特别的爱好”保留了这种保留语气和上下文意思。
+1020390,アンティーク,アンティーク,f2e1896t1,She has an eye for antiques.,彼(かの)女(じょ)はアンティークを見(み)る目(め)がある。,她有一双鉴赏古董的眼睛。,retain,她有一双鉴赏古董的眼睛。,日文“見る目がある”及英文“has an eye for”均指有鉴赏眼光；现译虽不如“有眼光”简洁，但意思准确。
+1240130,曲目,きょくもく,f21e1039t3,(musical) program,,乐曲,change,音乐节目；演奏曲目,EN为 musical program，指音乐节目安排或演奏曲目；单译“乐曲”只指单首音乐作品，未表达节目/安排这一集合义。
+1249560,傾聴,けいちょう,f22e755t1,They listened attentively so as not to miss a single word.,彼らは１語も聞きもらすまいと傾聴した。,他们为了不遗漏一句话而仔细倾听。,change,他们仔细倾听，生怕漏掉一个词。,日文“１語も聞きもらすまい”明确是不能漏听一个词，英文也为 not miss a single word；现译成“一句话”改变了计量单位。

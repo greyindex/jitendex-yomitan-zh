@@ -1,0 +1,178 @@
+﻿review_stage,jmdict_id,term,reading,field_id,kind,source_en,source_ja,current_zh,reviewer_note_unverified
+previous_5pct,1409330,体感,たいかん,f37e1821t4,gloss,coenesthesia,,共感,coenesthesia 的中文医学术语可译为机体觉、内感受或一般感觉，旧译‘共感’易与 empathy 混淆，但需统一术语来源后再改；t5、t6 同理。
+previous_5pct,1409330,体感,たいかん,f37e1821t5,gloss,cenesthesia,,共感,cenesthesia 的标准简体中文术语存在机体觉、内感受等译法，当前‘共感’疑似不当但无法仅凭本批次确定统一定译。
+previous_5pct,1409330,体感,たいかん,f37e1821t6,gloss,coenesthesis,,共感,coenesthesis 与 coenesthesia 同属专业术语，需统一医学词表后确定简体中文译名。
+previous_5pct,2849827,ミス,ミス,f196e1406t0,gloss,myth,,神话,英文 myth 与日语词头ミス不一致；旧译符合英文但源词可能有误，无法可靠改动。
+previous_5pct,1530180,無条件,むじょうけん,f49e517t1,example,On no account must you touch that switch.,無(む)条(じょう)件(けん)にあなたはそのスイッチに触(さわ)らなければならない。,无论如何，你都必须碰那个开关。,日文例句直译为必须触碰，但英文释义例句为禁止触碰，源文冲突，保留原译并记录疑点。
+increment_5_to_20pct,2858049,フレーズ,フレーズ,f204e1065t0,gloss,strawberry,,草莓,日文词头フレーズ通常表示phrase（词组/短语），但该字段英文明确为strawberry、中文为草莓；词头与释义来源明显冲突，无法确定应依哪一条纠正，暂保留原文并标记待查。
+increment_5_to_20pct,1591890,斬れ味,きれあじ,f56e964t6,gloss,peppiness (of a ball),,球的弹性,斬れ味用于球类时的 peppiness 似指球的劲道/活性，现译‘弹性’可能偏义；缺少具体球类语境，未能可靠确定对应术语，暂保留。
+increment_5_to_20pct,1034130,オカルト,オカルト,f4e155t0,gloss,occult,,神秘,occult 可指神秘学、超自然现象或神秘的，现译‘神秘’较宽泛；缺少该词实际用例以判定此处应限定为哪一义，暂保留。
+increment_5_to_20pct,1178980,汚らわしい,けがらわしい,f15e1155t1,gloss,unfair,,不公平的,汚らわしい的主要义为污秽、可憎；部分英文同义词列表列出 unfair，但未给语境确定这里是道德上的不正/卑劣还是‘不公平’，暂保留。
+increment_5_to_20pct,1592380,蔵,くら,f56e1137t8,gloss,elevator,,仓库,蔵的英译 elevator 在此应是粮仓/谷物筒仓类设施，而非普通楼宇电梯；现译‘仓库’较泛，具体中文专名需视术语来源确定，暂保留。
+increment_5_to_20pct,1662610,残党,ざんとう,f64e1352t2,gloss,refugees,,难民,日文词头残党指某派别/军队的残余者，与英文 refugees 及中文‘难民’不相符；现有字段来源冲突，无法判断应按日文词头还是英语释义校正。
+increment_5_to_20pct,1605850,擁護,ようご,f59e209t4,gloss,championship,,辩护,擁護表示拥护/辩护，但英文 championship 字面为锦标赛或冠军身份，二者来源冲突；无法确定是英文源误写还是该义翻译错误。
+increment_5_to_20pct,1633860,破ける,やぶける,f61e1821t2,gloss,to be frustrated,,受挫,词头破ける通常指破裂/撕开，英文 frustrated 及中文‘受挫’不匹配；可能为来源义错配，无法从现有日英字段可靠判断。
+increment_5_to_20pct,1499770,風化,ふうか,f46e938t3,gloss,efflorescence,,风花,chemistry 义 efflorescence 的规范中文术语不确定；原译“风花”显然像字面误译，但其应对应风化、风解还是其他专业术语，需要可靠术语来源确认，故保留原文。
+increment_5_to_20pct,1499770,風化,ふうか,f46e938t4,xref,efflorescence,,风花,xref 同样指 efflorescence，中文术语不确定；按要求将疑点限定为引用对象释义，不擅自修改。
+increment_5_to_20pct,1225880,義母,ぎぼ,f20e476t0,gloss,mother-in-law,,岳母,英文只给出泛称 mother-in-law，而中文“岳母”专指妻子的母亲；现有字段未交代说话者性别或姻亲方向，需语境确认更合适的中文泛称，暂不改。
+increment_5_to_20pct,2580350,裏スジ,うらスジ,f149e1672t0,gloss,urasuji,,ura-suji,麻将专门术语 urasuji 的标准简体中文译名未能凭当前字段确认；保留音译并记录疑点，避免按字面臆改。
+increment_5_to_20pct,1601220,反復,はんぷく,f58e435t4,gloss,recursion,,递归,计算机语境下日文反復通常对应重复/迭代，而当前英译给 recursion、中文给递归；无法判断是英文源释义错误还是该条日文用法特指递归，保留原文并记录源文冲突。
+increment_5_to_20pct,2854296,モール,モール,f201e135t0,gloss,maul (rugby),,橄榄球中的 Maul（ Maul 动作）,rugby maul 的标准简体中文译名需要专业体育术语确认；保留 Maul 音形，不自行造译。
+increment_5_to_20pct,2077470,下手に出る,したてにでる,f103e243t1,example,"That's right. It's written in an unassuming fashion, and it's an ethical standpoint as well.",そうですね。下手にでてばかりもなんだし。かつ、倫理的ですね。,是的。写得并不张扬，而且，是伦理的。,例句英文谈谦逊写法与伦理立场，而日文实际是“不能总是摆低姿态，而且也很伦理”；句间对应存在来源冲突，保留原译并记录疑点。
+increment_5_to_20pct,1254660,結び目,むすびめ,f23e14t1,example,Maintaining that tie is important.,その結(むす)び目(め)を守(まも)るのは重(じゅう)要(よう)なことだ。,保住那个结很重要。,EN将結び目对应为tie，JA是字面‘结/纽结’，ZH‘保住那个结’很不自然；上下文缺失，无法确认这里指实际绳结还是关系纽带，暂不改。
+increment_5_to_20pct,1594530,終い,しまい,f56e1884t5,gloss,noh dance in plain clothes,,素面舞,该义标注为能乐术语，英文说明便服中的能舞，当前‘素面舞’可能指不戴面具而非不穿戏服；需专业术语核实，暂不改。
+increment_5_to_20pct,2827320,突きこむ,つきこむ,f175e617t27,xref,⑤ to get involved with; to meddle in; to poke one's nose into,,⑤ 介入；插手；插手,这个xref字段编号为⑤且释义重复sense 5，但组内sense 6是riposte/retort/quip；引用源结构与字段语义冲突，不能可靠判定应引用哪个对象，先保留。
+increment_5_to_20pct,1837530,揃いも揃って,そろいもそろって,f82e84t2,gloss,all a bunch of,,一个不少,all a bunch of带有口语和评价语气，脱离后接成分无法选定稳定的中文完整对应；‘一个不少’虽较平淡但语义基本成立，暂不改。
+increment_5_to_20pct,1437630,哲学的,てつがくてき,f40e1109t1,example,This is a socio-linguistic study on Steven Emmet.,これはスティーブン・エメットに関(かん)する哲(てつ)学(がく)的(てき)研(けん)究(きゅう)ではない。,这不是关于斯蒂芬·埃梅特的哲学研究。,"Japanese example and existing Chinese both say ‘not a philosophical study’, while EN says socio-linguistic study; original language fields conflict on the negated discipline, so retain the Chinese aligned with Japanese and flag the source discrepancy."
+increment_5_to_20pct,1077100,ダブる,ダブる,f7e511t3,xref,① double,,① 双人,此xref只给出英文double，中文‘双人’明显不自然，但缺少引用对象语境，可能指棒球二垒安打或其他double义，需核对源结构后确定。
+increment_5_to_20pct,1285270,合法,ごうほう,f25e1459t3,example,A discussion of the proposal seems to be in order.,その議(ぎ)論(ろん)に関(かん)する討(とう)論(ろん)は合(ごう)法(ほう)であるようだ。,关于该提案的讨论似乎合情合理。,日文和现有中文都说该讨论似乎合法，而英文 says a discussion seems to be in order（似乎合适/有必要）；源文对合法性与合宜性的判断冲突，暂保留。
+increment_5_to_20pct,2836146,してやったり,してやったり,f183e1694t0,gloss,got you!,,抓到你了！,EN got you而日文してやったり可表示得意地成功/抓住对方，缺少语境难分是‘得手了’还是‘抓到你了’，暂不改。
+increment_5_to_20pct,2836146,してやったり,してやったり,f183e1694t1,gloss,tricked you!,,骗到你了！,字段EN是tricked you，但普通表达してやったり带有得意成功的语气，是否具体指骗过对方取决于语境，保留并记疑。
+increment_5_to_20pct,1279860,江,え,f25e541t0,gloss,inlet,,入水口,江在地理语境可指海湾、河口或海湾状水域；英文 inlet 与现有“入水口”均不足以唯一确定本条应采用的中文地理术语。
+increment_5_to_20pct,2851589,唐梨,からなし,f198e643t1,xref,② flowering quince (of genus Chaenomeles) (Pseudocydonia sinensis); Chinese quince (Chaenomeles sinensis),,② 花叶海棠（Chaenomeles属）（Pseudocydonia sinensis）；中国梨（Chaenomeles sinensis）,交叉引用英文同时把 Pseudocydonia sinensis 与 Chaenomeles 属、Chaenomeles sinensis 混列；植物学名的分类映射与英文普通名存在来源冲突，未据此改动译文。
+increment_5_to_20pct,1902500,払い落とす,はらいおとす,f87e84t2,example,She shook the rug to get dust out of it.,彼(かの)女(じょ)はごみを払(はら)い落(お)とすためにここに集(あつ)まった。,她为了掸去灰尘，把这里收拾了一下。,日文例句字面是“她为了掸落垃圾而聚到这里”，英文却是摇地毯去灰尘，语境内容冲突；现有中文也不忠实日文，需确认源例句后才能定稿。
+increment_5_to_20pct,1933150,虚脱感,きょだつかん,f89e795t0,gloss,despondency,,虚脱感,日文虚脱感通常指身心耗竭后的空虚、乏力感，英文 despondency 则偏情绪消沉，旧译“虚脱感”贴近日文但未解决源义冲突；需确认本词条想表达的义项。
+increment_5_to_20pct,1290460,混戦,こんせん,f26e660t3,example,There Akai joins them and it becomes a free-for-all in front of the finish line.,そこに赤(あか)井(い)選(せん)手(しゅ)も加(くわ)わり、ゴール前(まえ)は混(こん)戦(せん)模(も)様(よう)となった。,赤井选手也加入了进来，门前顿时陷入混战。,ゴール前在日文中可指球门前或终点线前；英文指finish line，现译‘门前’不清楚，但仅凭所给语境无法确认具体比赛项目与最佳中文场景词。
+increment_5_to_20pct,2848718,パオ,パオ,f195e1350t0,gloss,batons (suit),,棒子（花色）,パオ在此标注为纸牌游戏术语，英文仅释为batons牌组；缺少所用牌制/中文标准花色对应信息，无法确认应译为权杖、棍棒或其他牌名，暂保留原译。
+increment_5_to_20pct,1109070,フィジカル,フィジカル,f9e1257t0,gloss,physical,,物理的,フィジカル / physical可指身体层面，也可指物理层面；现有条目没有语境或义项标签，无法仅凭该字段判定‘物理的’是否误译，保留原文。
+increment_5_to_20pct,1117960,プロモーション,プロモーション,f10e609t0,gloss,promotion,,促销,プロモーション / promotion可指促销宣传，也可指晋升等；仅有裸词条，没有语境或标签判断中文‘促销’是否过窄，故保留。
+increment_5_to_20pct,2841465,アウトロー,アウトロー,f189e12t0,gloss,low and away (pitch),,低平且偏离的球,baseball术语low and away可能对应低外角球/低外侧球，‘低平且偏离的球’表达不够专业，但缺少可靠的中文术语依据，保留原译待核。
+increment_5_to_20pct,1539670,勇み足,いさみあし,f50e286t2,gloss,forward step-out,,前冲步,sumo术语forward step-out可能指因向前冲而踏出土俵的犯规；‘前冲步’过于泛化，但缺少可靠中文相扑术语依据，保留原文。
+increment_5_to_20pct,1180920,横着,おうちゃく,f15e1611t4,gloss,brazenly dishonest,,放肆,英文释义brazenly dishonest含‘厚颜无耻地不诚实’，日文横着主要指放肆/蛮横，原译放肆符合日文但未体现英文dishonest；来源义项侧重点冲突，无法可靠定改。
+increment_5_to_20pct,2057720,ダンディ,ダンディ,f101e511t2,gloss,esthete,,美学家,esthete指审美鉴赏者/唯美主义者等专门概念，中文‘美学家’可能误指学术研究者；缺少上下文判断其具体范围，保留待术语核实。
+increment_5_to_20pct,2856681,フィル,フィル,f203e409t0,gloss,fill,,填充,音乐术语fill通常指填补乐句/节奏空隙的短句或过门，具体中文术语随乐器和语境而变；此处只有孤立术语，无法可靠选择。
+increment_5_to_20pct,1549220,卵子,らんし,f51e269t1,gloss,ovule,,胚珠,英语ovule通常指植物胚珠，但词头卵子指动物雌性生殖细胞；原英文术语与日文词头不一致，当前‘胚珠’仅符合英语，无法在不核对源条目的情况下确定是否应改。
+increment_5_to_20pct,2869724,くりっ,くりっ,f215e1427t3,gloss,vividly (moving; esp. of eyes),,生动（移动；尤其指眼睛）,くりっ作为拟态词的‘vividly (moving; esp. of eyes)’释义较少见，中文‘生动（移动）’不通顺但缺少具体语境判断其应指转动灵活、突然转向或其他眼部动作，暂缓定改。
+increment_5_to_20pct,2829287,計算式,けいさんしき,f177e425t3,gloss,calculus,,微积分,計算式意为数学算式/公式，英语calculus既可指微积分学也可指计算方法；‘微积分’符合英语专门义但与日文词头范围不一致，需核对原条目来源，暂不改。
+increment_5_to_20pct,2657610,発想力,はっそうりょく,f157e1016t0,gloss,expressive power,,表现力,日文発想力是创造/构思能力，英文expressive power通常是表达能力，现有‘表现力’符合英语但与日文义项不完全一致；原字段可能存在源释义分歧，暂不改。
+increment_5_to_20pct,2240210,呂,りょ,f119e1879t4,gloss,"Japanese seven-tone gagaku scale similar to Mixolydian mode (corresp. to: re, mi, fa, so, la, ti, do)",,"日本七音雅乐音阶，类似混合利底亚调式（对应：re, mi, fa, so, la, ti, do）",源释义称该雅乐音阶类似 Mixolydian，却列出 re-mi-fa-so-la-ti-do 音列；该音列与调式名不一致，无法仅凭词条确认应优先哪一项，保留现译。
+increment_5_to_20pct,2826200,塩対応,しおたいおう,f174e469t5,xref,"incredible response (company dealing with a complaint, celebrity dealing with fans, etc.); incredible service",,令人难以置信的回应（如处理投诉的公司、应对粉丝的名人等）；令人难以置信的服务,xref 英文 incredible response/service 可能褒义指令人惊叹的优质回应，也可能按字面理解为难以置信；未能从当前字段确定源义，保留原译。
+increment_5_to_20pct,1842190,刷り込み,すりこみ,f82e1029t1,gloss,stenciling,,丝网印刷,英文 stenciling 泛指用模板转印，但筛网印刷本身也属于模板印刷；缺少领域/制作方式信息，无法判断原译“丝网印刷”是否过窄，暂保留并标记术语待核。
+increment_5_to_20pct,1087380,トロイ,トロイ,f7e1990t0,gloss,troy,,特洛伊的,トロイ 既可指特洛伊（例句明确是城市），而该字段信息又限定为金银等用的重量制；英文 troy 单独不足以判断本字段应保留地名还是改译重量单位，源条目语义混合。
+increment_5_to_20pct,2838082,陳,ちん,f185e1567t2,gloss,Chen dynasty (of China; 557-589 BCE),,陈朝（中国朝代；公元557年—589年）,英文字段给陈朝年代标为557–589 BCE，而中文写作公元557–589年；权威资料确认陈朝是公元557–589年，所以中文现译应保留，但英文源文存在相反的年代标注，需上游确认。
+increment_5_to_20pct,1439610,天然記念物,てんねんきねんぶつ,f40e1472t1,gloss,"protected species (animal, habitat, etc.)",,保护物种（动物、栖息地等）,英文将此义标作 protected species，却举 habitat（栖息地）为例；栖息地并非物种。中文当前直译这一分类冲突，需核对 JMdict 英文定义/源条目意图后再定。
+increment_5_to_20pct,1360950,心不全,しんふぜん,f33e116t1,example,"Mimura Yasuyuki (Konichika LTD, Managing Director) died of heart attack on the third, age 45.",三村・泰之氏（みむら・やすゆき＝コニチカ株式会社取締役）三日、心不全で死去。４５歳。,三村泰之（株式会社“欢迎”董事）于3日因心力衰竭去世，享年45岁。,日文和中文都写心不全/心力衰竭，英文却写 heart attack（心肌梗死/心脏病发作）；中文遵从日文，源字段之间冲突，需上游确认英文是否误标。
+increment_5_to_20pct,1106830,ピット,ピット,f9e912t3,gloss,pit (of a bowling alley),,保龄球沟,这是保龄球语境的 pit，可能指球道末端球瓶区或球沟；缺少权威术语核对，不能确认“保龄球沟”是否准确。
+increment_5_to_20pct,1382530,石灰,せっかい,f35e455t2,gloss,caustic lime,,熟石灰,术语 caustic lime 的资料对其对应 quicklime（生石灰）还是 hydrated/slaked lime（熟石灰）存在用法差异；已有另一英文 gloss quicklime/中文生石灰，需专业源词表确认此项，暂不擅改。
+increment_5_to_20pct,1795630,起爆剤,きばくざい,f77e1948t2,gloss,primer,,引信,primer 在起爆/弹药术语中可指底火、起爆药或起爆部件；该条同时列 detonator、priming 和 primer，需专业术语源确认后才能确定中文对应，暂保留“引信”。
+increment_5_to_20pct,2825895,正拳突き,せいけんづき,f173e1896t0,gloss,thrusting technique,,正拳突,空手道正拳突き有特定技术名，中文译法可能是“正拳突/正拳冲拳”；当前“正拳突”是否为规范术语无法从一般义可靠确定，暂不改。
+increment_5_to_20pct,1267480,股関節,こかんせつ,f24e428t1,gloss,coxa,,髋骨,Coxa 在解剖学可指髋部/髋关节区域，也可指髋骨；但 source gloss 同时把它列作 hip joint 同义词。现译“髋骨”对应骨而非关节，需核对专业词表及英文源定义。
+increment_5_to_20pct,2198900,持ち越し,もちこし,f115e878t3,gloss,hangover,,宿醉,英语 hangover 可指宿醉，也可泛指前一阶段遗留下来的影响/存量；该条日语义为持ち越し，中文“宿醉”是否为某种特定用法无法从上下文确认，暂不改。
+increment_5_to_20pct,2595880,管理会社,かんりがいしゃ,f151e751t2,gloss,proprietary company,,业主公司,英文 proprietary company 与「管理会社」的对应关系不清楚，可能涉及特殊公司制度或源文错配；仅凭当前字段无法可靠确定中文释义。
+increment_5_to_20pct,1386130,窃盗犯,せっとうはん,f35e1185t0,gloss,theft,,盗窃,窃盗犯是指实施盗窃的人（盗窃犯/窃贼），但英文给的是 theft（盗窃行为/罪名）；日英词性和对象冲突，暂不擅改。
+increment_5_to_20pct,1506230,兵員,へいいん,f47e231t0,gloss,military strength,,兵力,日文兵員指军队人员，英文 military strength 更像兵力/军事力量；可能是源文义项不一致，暂不能据此确定准确中文范围。
+increment_5_to_20pct,2114350,科捜研,かそうけん,f106e1557t0,gloss,forensic researcher,,法医研究员,科捜研是科學搜查研究所/法医科学研究机构的简称，英文却给 forensic researcher（研究人员），日英在机构与个人间冲突，暂不据英文改译。
+increment_5_to_20pct,1291430,査察,ささつ,f26e852t2,example,Korea allowed an inspection by the IAEA.,朝(ちょう)鮮(せん)は国(こく)際(さい)原(げん)子(し)力(りょく)委(い)員(いん)会(かい)の査(さ)察(さつ)を受(う)け入(い)れた。,朝鲜接受了国际原子能机构的检查。,英文只写 Korea，日文「朝鮮」也可能泛指朝鲜/韩国历史称谓，不能据此确定应译“朝鲜”还是“韩国”，暂保留。
+increment_5_to_20pct,1044430,クリーナー,クリーナー,f4e1701t0,gloss,cleaner,,清洁工,クリーナー / cleaner 可指清洁剂、清洁设备或清洁工；当前缺少上下文，无法确定目标词性和具体对象，保留原译。
+increment_5_to_20pct,2847387,ツーリング,ツーリング,f194e832t0,gloss,tooling,,工具,词头ツーリング通常可指 touring，但该 sense 的 EN 明确给 tooling；现有字段没有上下文来裁定日英源冲突，保留原译并标记待核。
+increment_5_to_20pct,1292080,債権,さいけん,f26e966t2,example,Bonds together with some money was stolen.,債(さい)権(けん)と一(いっ)緒(しょ)にお金(かね)も盗(ぬす)まれた。,债券连同一些钱一起被盗了。,日文債権意为债权/债务请求权，英文 Bonds 则是债券；例句源文存在实质冲突，现有中文跟随英文写作‘债券’，无法仅凭该条确认预期义项，暂保留。
+increment_5_to_20pct,1389770,専業,せんぎょう,f35e1900t3,gloss,monopoly,,垄断,日文専業更直接指单一/专门经营的职业或业务；英文 monopoly 才对应经济学‘垄断’。缺少词条上下文，无法判断该英文 gloss 是否特指独占经营，暂保留现译并标记语义不完全对应。
+increment_5_to_20pct,1997980,大量虐殺,たいりょうぎゃくさつ,f95e857t1,gloss,genocide,,种族灭绝,大量虐殺在日文通常指大规模屠杀，英文 genocide 限定种族灭绝；两者范围不同，缺少语境无法决定该英译是否为该条预期义项，暂保留。
+increment_5_to_20pct,2854379,バイス,バイス,f201e279t3,xref,vice-president,,副总统,xref 仅给出泛指职位 vice-president，中文‘副总统’限定国家职位，而‘副总裁’适用于企业；缺少引用对象上下文无法确定，暂保留。
+increment_5_to_20pct,1672050,無自覚,むじかく,f65e1465t4,gloss,apathetic,,无自觉的,EN apathetic 指冷漠、漠不关心，但日语無自覚及该组其他释义指缺乏自觉或意识；两种源义存在冲突，无法可靠决定应以哪一义为准。
+increment_5_to_20pct,1380350,聖人,せいじん,f34e1994t6,gloss,refined sake,,精酿清酒,聖人用于清酒的历史性专门义；英语 refined sake 与现译“精酿清酒”的工艺含义可能有偏差，未能可靠确定适当中文术语，保留原文。
+increment_5_to_20pct,1098430,バスケット,バスケット,f8e1619t4,gloss,basket cloth,,篮布,basket cloth 是罕见/语境不足的布料术语，现译“篮布”对应关系无法可靠确认，保留原文。
+increment_5_to_20pct,2081050,宮,みや,f103e1002t1,example,"In the temple courts he found men selling cattle, sheep and doves, and others sitting at tables.",そして、宮の中に、牛や羊や鳩を売るもの達と両替人達が座っているのをご覧になった。,然后，他看到在神社里面，卖牛、羊和鸽子的人以及兑换货币的人坐着。,JA 宮の中与 EN temple courts 均可能指宗教建筑空间，但旧译按“神社”处理；缺少上下文以确定此处应为神社、寺院或宫殿，保留现译。
+increment_5_to_20pct,1552690,留め,とめ,f51e879t0,gloss,"(a) stop (e.g. in a timber joint, or at the end of a kanji stroke)",,（例如木构件的榫眼或汉字笔画的末端）的停顿,木工接合语境中的 stop 指具体构造部位/止挡，日英释义信息不足以可靠决定最妥当的中文木工术语；现译“榫眼”疑不准但不擅自定词，保留原文。
+increment_5_to_20pct,2782510,いで,いで,f169e1074t1,gloss,well,,哎呀,古语感叹词 いで/いでや 的话语功能受具体上下文影响，EN well 可能是承接语或催促，现译“哎呀”不够确定；无语境可作依据，保留原文。
+increment_5_to_20pct,1233720,供述,きょうじゅつ,f20e1911t0,gloss,affidavit,,宣誓书,法律术语存在源文差异：JA 供述是供述/陈述，EN affidavit 特指经宣誓的书面陈述；现译“宣誓书”符合英文但可能超出日文义，缺少具体法域语境，保留原译。
+increment_5_to_20pct,1399600,想起,そうき,f36e1810t3,gloss,anamnesis,,回忆术,anamnesis 是特定哲学/心理学术语；现译‘回忆术’可能误解为记忆技巧，需核实该条拟指柏拉图式回忆说还是一般回忆，暂不擅改。
+increment_5_to_20pct,1399600,想起,そうき,f36e1810t4,xref,anamnesis,,回忆术,xref 同样涉及 anamnesis 的专业义；需核实目标词条语境后才能确定中文对应，暂保留原译。
+increment_5_to_20pct,2871317,約束された,やくそくされた,f217e912t4,gloss,natural,,自然的,約束された的这项英文标为 natural，可能表达命中注定/必然，但缺少上下文无法确认；‘自然的’是否为源词条已有特定用法不明，暂保留。
+increment_5_to_20pct,1356490,情報量,じょうほうりょう,f32e1211t3,gloss,surprisal,,惊讶度,information theory 中 surprisal 的中文专业译名可能是‘自信息’或‘惊异度’，现译‘惊讶度’不确定是否来自该数据源术语体系，暂不改。
+increment_5_to_20pct,2246880,バイ,バイ,f120e1407t0,gloss,Japanese Babylon (Babylonia japonica),,日本贝,该义是特定海螺 Babylon japonica；现译‘日本贝’过于泛化，准确中文物种名需可靠分类学来源确认，暂保留。
+increment_5_to_20pct,2246880,バイ,バイ,f120e1407t1,gloss,Japanese ivory shell,,日本象牙贝,Japanese ivory shell 的常用中文物种名无法仅凭通用词义确定，避免误用具体物种名，暂保留。
+increment_5_to_20pct,1144630,レイプ,レイプ,f12e472t2,example,"Within the rape crisis movement, Greensite's dissent is significant.",レイプ危(き)機(き)運(うん)動(どう)の内(ない)部(ぶ)においては、グリーンサイトによる異(い)議(ぎ)表(ひょう)明(めい)は重(じゅう)要(よう)な意(い)義(ぎ)を持(も)っている。,在强奸危机运动内部，Greensite的异议声明具有重要意义。,rape crisis movement 是特定社会运动术语，现译‘强奸危机运动’不自然；需要确认中文运动名称及其范围后再改。
+increment_5_to_20pct,2865696,チカ,チカ,f211e1790t0,gloss,Japanese surfsmelt (Hypomesus japonicus),,日本银鱼（Hypomesus japonicus）,Hypomesus japonicus 的中文常用物种名需核实；‘日本银鱼’可能与其他鱼类混淆，暂保留现译。
+increment_5_to_20pct,1616210,性悪,しょうわる,f60e681t1,gloss,inconstancy,,无常,英文给出 inconstancy，但日语词头性悪（しょうわる）及该词通常义指性情恶劣/坏心肠；来源义项与词头明显冲突，不能仅据英文确定中文应译，暂保留并标疑。
+increment_5_to_20pct,2177790,危,き,f113e553t4,xref,② seven mansions (Chinese constellations) of the northern heavens,,牛（Bos taurus）,xref 英文为“北方天空中的七宿”，中文却为“牛（Bos taurus）”，与当前危宿及二十八宿背景也无法直接对应；交叉引用对象来源冲突，需查明对象后才能修正，暂保留。
+increment_5_to_20pct,1497410,浮き立つ,うきたつ,f46e530t5,example,That keeps me on my toes.,爪(つま)先(さき)が浮(う)きたっちゃうよ。,脚尖都翘起来了。,英文 idiom 是“keeps me on my toes”（使人保持警觉），日文却直说爪先浮起；中文沿日文作“脚尖都翘起来了”略显生硬且两源隐喻不同，缺乏语境无法确定原句意图，暂保留。
+increment_5_to_20pct,1881440,締り,しまり,f85e1358t15,gloss,corner enclosure,,角部包围,围棋shimari的英释、同条info和中文释义在“角部包围”的对象与结构上略不一致；将info改成明确的区域定义，保留该术语词面译法供术语审校。
+increment_5_to_20pct,1167990,芋虫,いもむし,f14e866t1,gloss,(hairless) caterpillar,,（无毛的）毛毛虫,英文限定hairless caterpillar，但中文常用“毛毛虫”并不严格限定毛发；若保留“毛毛虫”可能与限定看似冲突，改成具体中文分类名需结合原词虫种确认，暂记术语疑点。
+increment_5_to_20pct,1387030,舌鼓を打つ,したつづみをうつ,f35e1428t2,example,We banqueted on lobster that night.,その夜我々は大エビに舌鼓を打った。,那天晚上，我们吃龙虾吃得津津有味。,英文称 lobster，而日文大エビ通常指大虾；源文存在物种冲突，依日文优先原则保留现译并标疑。
+increment_5_to_20pct,2600310,刷,さつ,f151e1635t2,gloss,issue,,期,issue 对印刷次数/刊物期数的具体用法依上下文而定，现有义项未提供语境，无法可靠决定中文计数词。
+increment_5_to_20pct,2797000,お側,おそば,f171e46t6,gloss,while,,当……时,英文释义 while 与お側（在旁、近旁）的对应缺少上下文，难以确认这里是‘在旁时’还是源释义映射异常；暂保留现译。
+increment_5_to_20pct,1444530,斗,と,f41e480t6,xref,② seven mansions (Chinese constellations) of the northern heavens,,牛（Bos taurus）,该 xref 英文指北方七宿，但中文为“牛（Bos taurus）”，像是物种名而非星宿；需查看引用目标原始结构才能判断应保留的对象释义。
+increment_5_to_20pct,2709560,サバキ,サバキ,f162e1125t7,gloss,sabaki,,打手,围棋术语 sabaki 在中文有治孤、腾挪等不同译法；来源只给日语音译和英释，无法确认此词库首选译名，保留音译。
+increment_5_to_20pct,1237570,狂言,きょうげん,f21e608t6,gloss,make-believe,,胡言乱语,狂言可指荒诞言行或假扮表演，英文 make-believe 未充分消歧，现译“胡言乱语”可能对应另一用法，需结合原始辞典条目确认。
+increment_5_to_20pct,1433540,通り名,とおりな,f40e416t5,gloss,house name,,门牌名,英文 house name 对应的对象不够明确，可能指家名/屋号，也可能是房屋本身的名称；无法仅凭该字段确认“门牌名”是否误译，暂保留并标记待查。
+increment_5_to_20pct,2488500,レット,レット,f141e1327t0,gloss,let,,发球,レット作为体育术语在常见网球用法中指擦网后判重发球，但该字段只给出泛化的 let，未提供具体运动/规则语境，无法确认释义范围，暂保留“发球”并标记待查。
+increment_5_to_20pct,2067660,トラブる,トラブる,f102e470t2,gloss,to cause trouble,,引起麻烦,该条词性标为不及物且词头トラブる通常指自己遇到故障/麻烦，但英文 gloss 写作及物的“to cause trouble”，与日语词性和现译存在冲突；需核对词典源条目后再决定。
+increment_5_to_20pct,2796480,話題性,わだいせい,f170e1952t1,gloss,news hook,,新闻钩子,news hook 是新闻学术语，原译“新闻钩子”可能是行业用法，也可能需要按中文新闻编辑惯例译作“新闻由头”；目前无法凭条目内容判定本地术语是否错误，保留并标记待查。
+increment_5_to_20pct,1146860,ローラー,ローラー,f12e818t1,example,"The front-roller thrust angle is 2 degrees, probably there were plans to strengthen that angle a little when racing.",フロントローラーのスラスト角は２度、多分レース時にはもう少し角度を強める予定です。,前轮推力角为2度，大概比赛时会把角度再调大一些。,例句可能涉及模型车/赛车的前滚轮角度，但 roller 与 thrust angle 在该专业场景中的中文术语需结合原文完整语境确认；保留现译并标记待查。
+increment_5_to_20pct,1829930,生き別れ,いきわかれ,f81e456t0,gloss,lifelong separation,,生离死别,生き別れ指亲友在人世时被迫分离，英语 lifelong separation 与中文常用“生离死别”都可能带出不同的时长/死亡含义；缺少具体语境，暂保留。
+increment_5_to_20pct,2151640,飲み,のみ,f110e1315t4,gloss,stock market bucketing,,股票市场的分档,stock market bucketing 是证券交易中的专门做法；现译“股票市场的分档”可能按 bucket 字面处理，但无法仅凭该简短 gloss 确定应译“对赌”或其他术语，暂保留并待查。
+increment_5_to_20pct,2869280,ウェア,ウェア,f215e464t0,gloss,ware,,ware,ウェア在该计算机相关词条中用作英语构词成分 ware，但独立释义“ware”可能指商品，也可能是复合词后缀；仅凭此字段无法确定应选哪种中文表述，保留并标记待查。
+increment_5_to_20pct,1479770,半島,はんとう,f44e1411t2,gloss,Korea,,韩国,半島的敏感口语义英译为Korea，但中文‘韩国’可能限定为南韩；需结合该日语义的历史或语用范围确认是否应作‘朝鲜半岛’或其他表述，当前保留原译。
+increment_5_to_20pct,2014400,撃鉄,げきてつ,f97e96t2,gloss,cocking piece,,击锤,撃鉄与英语cocking piece并非在所有枪械结构中都是同一部件；仅凭本条无法确认应统一译为击锤还是另用击栓/待击件，保留现译。
+increment_5_to_20pct,1114050,ブランケット,ブランケット,f10e23t1,gloss,(rubber) blanket,,橡胶毯,该义为印刷术 rubber blanket，属于专业耗材名称；需核实中文行业规范术语是橡皮布、橡胶毯或其他称法，暂保留原译。
+increment_5_to_20pct,2868440,管,くだ,f214e896t2,gloss,bobbin (in a shuttle or spinning wheel),,管,纺织机械中的 bobbin 是梭子或纺轮上的绕线部件，中文可能用梭芯、纡子或线轴；缺少具体机械语境，暂保留原译。
+increment_5_to_20pct,2863331,ポコ,ポコ,f209e1341t0,gloss,poco,,poco,音乐术语 poco 在乐谱中常作力度/速度标记，具体应译‘稍许’还是作为意大利文演奏指示保留，需看其与后续术语的组合；本条单独列出暂保留原文。
+increment_5_to_20pct,1320520,漆,うるし,f29e288t1,gloss,japan,,日本漆,英译 japan 指日本产漆/日本漆工艺，中文‘日本漆’可能是专门术语，也可能被理解为来自日本的普通漆；需结合工艺语境确认，暂保留。
+increment_5_to_20pct,2864227,といいのだが,といいのだが,f210e975t2,gloss,I'd rather,,最好,日文文型といいのだが通常是‘希望……就好了’，但英文 I'd rather 表示‘宁愿……’；语源释义有冲突，现保留‘最好’待核实。
+increment_5_to_20pct,1534990,黙示録,もくしろく,f49e1386t2,example,"Outside the mainstream of orthodox Judaism, the apocalyptic books were more successful with certain movements.",ユダヤ正統派の主流から外れた部分においては、黙示録はある種の運動に対して、より成功を収めたのである。,在犹太教正统派的主流之外，启示录在某些运动中取得了更大的成功。,英文说 apocalyptic books（末世启示类著作，复数/类型），日文却直接用黙示録，可能指具体《启示录》；现有中文《启示录》沿日文保留，缺少语境无法确定应译具体书名还是文类。
+increment_5_to_20pct,1349040,少将,しょうしょう,f31e1749t2,gloss,air commodore,,空军少将,英文air commodore与中文空军少将并非同一军衔等级；日文少将对应的英语军衔体系映射存在来源冲突，无法确定应忠实翻译或保留日军阶等值。
+increment_5_to_20pct,2866806,ヒラ,ヒラ,f212e1836t0,gloss,elongate ilisha (Ilisha elongata),,长体银鱼（Ilisha elongata）,Ilisha elongata的中文通用名存在不同译名；“长体银鱼”可能误归鲑形目银鱼类，但在无可靠术语来源支持的情况下暂不更改。
+increment_5_to_20pct,2734060,クリュ,クリュ,f164e1627t0,gloss,cru (wine classification),,园,葡萄酒分类语境中的 cru 指产区/葡萄园等级或该等级酒，中文专业译名因体系和产地而异；单凭条目不能判断“园”是否为完整准确的本地术语，保留并待核。
+increment_5_to_20pct,1596250,税込み,ぜいこみ,f57e508t1,gloss,pretax (income or profits),,税前（收入或利润）,本词头「税込み」明确表示含税，但该字段英文释义写 pretax，与词头相冲突；无法判断是该译文错位还是源条目英文错误，保留原文待查。
+increment_5_to_20pct,1596250,税込み,ぜいこみ,f57e508t2,gloss,before tax,,税前,本词头「税込み」明确表示含税，但该字段英文释义写 before tax，与词头相冲突；无法判断是该译文错位还是源条目英文错误，保留原文待查。
+increment_5_to_20pct,2827358,金属質,きんぞくしつ,f175e671t0,gloss,mineral matter,,矿物质,英语 mineral matter 与日语词头「金属質」的语义明显冲突；现中文对应英语，但无法判断是源英文错配还是日文义项错位，因此保留原文。
+increment_5_to_20pct,1098080,バインダー,バインダー,f8e1561t3,gloss,binder,,捆扎物,binder 在缺少上下文时可指捆扎物、黏合剂或装订类物品；现译“捆扎物”是否符合该义项来源无法判断，保留待核。
+increment_5_to_20pct,1932700,機関室,きかんしつ,f89e724t0,gloss,engine room,,机舱,engine room 的中文通常需按场景译为船舶“轮机舱”或建筑/设施“机房”，原条没有提供场景；保留“机舱”并待核具体对象。
+increment_5_to_20pct,1415060,大麻,たいま,f38e929t5,gloss,Shinto paper offerings,,神道纸钱,日语「大麻」的古义指神道祭祀用的纸质祓具，英语泛写 Shinto paper offerings；其中文术语究竟是大麻、御幣、祓串等需结合仪式/词典来源核对，暂保留现译。
+increment_5_to_20pct,2857561,ティタン,ティタン,f204e98t1,example,This handmade Italian-made titanium bicycle is terribly light.,この手(て)作(づく)りのイタリア製(せい)チタン自(じ)転(てん)車(しゃ)は、恐(おそ)ろしく軽(かる)い。,这辆意大利手工制作的钛合金自行车轻得惊人。,此组是希腊神话 Titan/土卫六义项，但例句说的是钛合金自行车，似乎来自读音相同的元素名义项；现译本身准确，但源义项归属不清，保留待查。
+increment_5_to_20pct,1471090,波紋,はもん,f43e1641t4,gloss,Japanese slit drum,,日本裂鼓,music义的Japanese slit drum为一种日本铁制开槽打击乐器，但不确定“日本裂鼓”是否为中文规范乐器名；需音乐器物术语来源确认。
+increment_5_to_20pct,1606250,略奪,りゃくだつ,f59e365t4,example,"According to Tom, Mary is just a predatory guru who promises gain.",トムによって、メアリー様(さま)は利(り)益(えき)を約(やく)束(そく)する略(りゃく)奪(だつ)の尊(そん)師(し)の一(ひと)つしかありません。,据汤姆所说，玛丽只不过是承诺利益的一个掠夺者。,英文与日文都把 predatory 表作略夺性、把 guru 表作宗师，但整句人物身份及“承诺利益”的修饰关系不够明确，现译漏出guru，无法可靠重构整句译文。
+increment_5_to_20pct,1037590,カッター,カッター,f4e673t7,gloss,cutter (boat),,切割船,cutter (boat) 是具体船型术语，现译“切割船”显然按词面硬译，但这一词条可能指不同小艇类型，未核实可靠的对应船型名称前保留原文。
+increment_5_to_20pct,2207110,印象を与える,いんしょうをあたえる,f116e582t2,example,I'm afraid the story will give him a wrong impression.,この話(はなし)をすると彼(かれ)は間(ま)違(ちが)った印(いん)象(しょう)を与(あた)えるんじゃないかな。,讲这个故事，恐怕会给他留下错误的印象吧。,中文依英文把故事作为给予错误印象的原因；日文则以彼（他）为“给出错误印象”的主语，日英主客体冲突，无法可靠裁定应如何改写中文，暂保留。
+increment_5_to_20pct,1634710,集合体,しゅうごうたい,f61e1999t2,example,"Together, the developers may amend this constitution, provided a 3:1 majority is in agreement.",開発者は集合体として以下の権限を持つ。３：１の賛成多数をもって、この憲章を修正できる。,开发者作为集合体拥有以下权限。以3:1的多数赞成票，可以修改本章程。,英文例句仅为开发者一起可修改章程，日文与中文都另有‘作为集合体拥有权限’的句子成分，三方并非完全对齐；仅凭当前字段无法确定中文是否对应了更长的英文源句，因此保留原文待源文核对。
+increment_5_to_20pct,1232670,虚偽,きょぎ,f20e1728t4,example,Reject all its lies and vulgarity.,新(しん)聞(ぶん)のさまざまな虚(きょ)偽(ぎ)や卑(ひ)俗(ぞく)さにも関(かか)わらず。,不顾新闻中各种虚假与卑俗之处。,英文例句说‘拒绝/摒弃其谎言和低俗’，而日文、中文都表现‘尽管报纸内容虚伪低俗’；两源方向不同，无法确定应以哪句为准，暂保留。
+increment_5_to_20pct,1224560,偽善,ぎぜん,f20e249t1,example,Hypocrisy is the homage that vice pays to virtue.,偽善とは悪徳が徳に対して払う忠順の誓いである。,伪善是恶德对德所支付的忠顺的誓约。,英文 famous quotation 用 homage（致敬），日语来源却写忠順の誓い（忠顺誓言），现中文沿用了日语的誓约义；例句两种来源含义不完全一致，按规则保留待确认。
+increment_5_to_20pct,1498970,武勇伝,ぶゆうでん,f46e820t5,gloss,acts of violence,,武勇传,该义英文为 acts of violence，而日语词头及其他同sense释义均是勇武事迹/英雄故事，无法判断这条释义是否指暴力事迹或英文源义误配，保留原译待核。
+increment_5_to_20pct,1242420,近代,きんだい,f21e1483t4,gloss,"early modern period (in Japan, usu. from the Meiji Restoration until the end of World War II)",,近代（指日本明治维新至二战结束）,英文 historical gloss 的 early modern period 与日语近代及中文所给日本明治维新至二战时期并非同一历史分期；现译遵循日语词义，留待源文核对。
+increment_5_to_20pct,1326110,主犯,しゅはん,f29e1499t0,gloss,principal offence,,主罪,英语 principal offence 指主要罪行，但日语主犯及当前中文‘主罪’分别指主犯、主要罪名；无法由字段确定英语是否错配或目标应补另一个词义，保留待核。
+increment_5_to_20pct,1631830,癖に,くせに,f61e1395t2,gloss,when,,当……时,英文释义 when 与中文‘当……时’对应，但日语助词癖に通常表达‘明明……却/尽管’，看起来是源释义与日语用法冲突；无法仅据此批次判断是否存在特殊语境义，暂不改。
+increment_5_to_20pct,1188590,いずれまた,いずれまた,f16e1170t2,gloss,before long,,改日,英文 before long 表示不久，日文いずれまた通常是改天、以后某时；现译‘改日’贴合日语，但英文时间远近不同，暂不擅改。
+increment_5_to_20pct,1171740,羽交い締め,はがいじめ,f14e1703t0,gloss,full nelson,,全身锁,full nelson 是摔跤中的特定控制技法，‘全身锁’不确定是否为该技法的标准中文术语；暂保留原译，避免擅换术语。
+increment_5_to_20pct,2864648,眉をしかめる,まゆをしかめる,f210e1878t1,gloss,to raise one's eyebrows,,扬起眉毛,英文释义为 to raise one's eyebrows，但日文词头 眉をしかめる／顰める 通常指皱眉；中译“扬起眉毛”忠实英文却可能背离日文，需确认原词源/释义是否误配。
+increment_5_to_20pct,1357420,織る,おる,f32e1413t1,example,She folded napkins all the way.,彼(かの)女(じょ)はずっとナプキンを織(お)り続(つづ)けた。,她一直在织餐巾。,英文例句说折叠餐巾，日文明确说持续织餐巾，冲突无法仅靠释义判定；现有中文跟日文。
+increment_5_to_20pct,1436380,提携,ていけい,f40e891t5,gloss,sponsorship,,赞助,日文提携通常是合作/伙伴关系，英文 sponsorship 也可能有赞助含义；当前中译赞助无法在缺少具体语境时判定为错。
+increment_5_to_20pct,2254740,スカスカ,スカスカ,f121e1020t3,gloss,pithy,,疏松的,英文 pithy 通常指简洁有力，与日文スカスカ的空疏义以及中文“疏松”不吻合；可能是源释义误配，暂保留中译。
+increment_5_to_20pct,1543860,余す,あます,f50e1101t3,example,He tried to save something from his travel expenses.,彼(かれ)は、旅(りょ)券(けん)を余(あま)そうとした。,他试图节省旅费。,英文说节省旅费，日文写 旅券（护照）を余そう，二者词义冲突；中文当前跟英文，需核对原例句是否误植。
+increment_5_to_20pct,1644740,涙腺,るいせん,f63e26t2,example,I was told my tear duct was blocked.,涙(るい)腺(せん)が詰(つ)まっていると言(い)われました。,听说泪腺堵塞了。,英文例句称 tear duct（泪管）堵塞，日文写 涙腺（泪腺）堵塞，二者是不同解剖结构；中文跟随日文，需确认英文原句是否误配。
+increment_5_to_20pct,1478100,罰則,ばっそく,f44e1109t5,gloss,penal code,,处罚法典,英文 penal code 通常为刑法典，日文 罰則 指处罚条款/制裁规定，原译按英文；义项源文的范围不一致，暂不改。
+increment_5_to_20pct,2037860,ただじゃおかねえ,ただじゃおかねえ,f99e487t1,gloss,you'd better keep your mouth shut!,,你最好闭上嘴！,英文给出‘you'd better keep your mouth shut’，中文现译对应这句话，但日文原句ただじゃおかねえ及例句都表示‘不会轻易放过你’的威胁，源义与此条英文释义不一致；保留原文待确认源条目。
+increment_5_to_20pct,1519190,忘る,わする,f48e593t0,gloss,to lose something,,遗失,日文词头忘る通常表示‘忘记’，但英文释义限定为 to lose something、原译为‘遗失’；目前无法确认这里指遗失物品还是忘记，保留原译并标记源义冲突。
+increment_5_to_20pct,1881600,杓,しゃく,f85e1386t5,gloss,Queen Anne's lace,,安妮女王蕾丝,Queen Anne's lace 常见对应野胡萝卜，而本条日语植物名/同组其他英文名指向 Anthriscus sylvestris；需确认词典源条目的植物种对应，暂不按字面保留或擅自改植物中文名。
+increment_5_to_20pct,1750010,青木,あおき,f73e332t0,gloss,Japanese laurel (Aucuba japonica),,日本桂（Aucuba japonica）,Aucuba japonica 的中文植物通名存在地区及分类名差异；“日本桂”是否为本词典采用的规范名称需要植物学来源确认，暂不替换。
+increment_5_to_20pct,1089390,ドロー,ドロー,f8e294t3,gloss,draw (shot),,抽球（高尔夫）,draw shot 是特定高尔夫球路术语，不等于泛指抽球；中文规范术语的左右曲方向依击球者惯用手而异，需核对专业术语后再定。
+increment_5_to_20pct,1146130,レンジャー,レンジャー,f12e711t0,gloss,ranger,,护林员,ranger 可指护林员，也可指特定军警/特种部队人员；现有示例没有足够信息确定其语境所指，暂不保留单一职业译法。
+increment_5_to_20pct,1635910,受精,じゅせい,f62e212t3,gloss,pollination,,授粉,日语受精指受精过程，但英文 gloss 列入 pollination（授粉），二者是不同的生物学过程；源文相互冲突，暂不改中文。
+increment_5_to_20pct,1116970,プレミア,プレミア,f10e471t0,gloss,premium,,高级的；优质的,プレミア作名词时可能指高于原价的溢价/炒价，也可能借英语 premium 表示优质；仅凭该条未标注的 gloss 无法确定此处取义，暂不改。
+increment_5_to_20pct,1416790,鱈,たら,f38e1260t0,gloss,"gadid (any fish of the family Gadidae, incl. cod, haddock, whiting and pollack)",,鳕鱼科鱼类（包括鳕鱼、黑线鳕、白线鳕和油鳎等）,英文 fish-family 列表中的 pollack 被译为“油鳎”，但油鳎属于不同鱼类；这些鱼类通名的中文对应涉及分类和地区名称差异，需核对权威鱼类名录后再修正。
+increment_5_to_20pct,1401720,総長,そうちょう,f37e395t1,gloss,vice-chancellor,,副校长,大学总长/校长职位的中英制度对应不一；英式 vice-chancellor 常是大学最高负责人，而中文“副校长”通常低于校长，需结合日本职位制度确认。
+increment_5_to_20pct,1176380,延べ,のべ,f15e676t0,gloss,futures,,未来,延べ本义及本条其他释义都围绕累计/总量，英文孤立给出 futures，中文按此译为“未来”；缺少语境判断这里是否为金融期货义或英文源条目误配，暂不改。
+increment_5_to_20pct,1098470,バスター,バスター,f8e1624t0,gloss,fake bunt,,假推棒,fake bunt/slash bunt 是棒球战术术语，中文术语需核对规则和专业译名；“假推棒”“劈砍推棒”明显生硬，但不宜在未确认对应动作前替换。
+increment_5_to_20pct,1098470,バスター,バスター,f8e1624t1,gloss,slash bunt,,劈砍推棒,slash bunt 为特定棒球战术，与一般击球动作不同，需核对规范中文名称后再修订。
+increment_5_to_20pct,1566240,孵化,ふか,f52e1619t0,gloss,incubation,,孵化,日语孵化及中文“孵化”指卵孵出，而英文 incubation 特指孵化前的保温/发育过程；日英源释义不一致，暂不替换。
+increment_5_to_20pct,1401770,総務,そうむ,f37e407t4,gloss,adjutant general,,参谋长,adjutant general 是特定军职，中文“参谋长”通常对应 chief of staff，二者职掌/级别不必然相同，需确认所指国家军制后再定。
+increment_5_to_20pct,1583420,氷水,こおりみず,f54e1967t3,xref,shaved ice (usually served with flavored simple syrup); Italian ice; snow cone; sno-cone,,刨冰（通常搭配风味糖浆食用）；意大利冰；雪锥；雪锥,xref 里的 Italian ice 和 snow cone 是地区性刨冰甜品名称，“意大利冰”“雪锥”均是生硬直译，需核对对应食品及规范中文通名。
+increment_5_to_20pct,1980130,マイン,マイン,f93e1125t0,gloss,mine,,矿脉,マイン的英语mine可指矿井/矿坑、矿藏或水雷等；缺少领域标签或语境，现有‘矿脉’仅与其中矿藏义吻合，暂不据此擅改。
+increment_5_to_20pct,1109520,フェーズ,フェーズ,f9e1337t0,gloss,phase,,相位,フェーズ的英语phase可泛指阶段，也可指物理相位；条目没有学科标签或语境，现译相位可能过度限缩，先保留并记录。
+increment_5_to_20pct,2865741,スマ,スマ,f211e1891t0,gloss,mackerel tuna (Euthynnus affinis),,鲣鱼（Euthynnus affinis）,Euthynnus affinis的中文标准物种名可能是扁舵鲣，而现译鲣鱼较宽泛；具体常用名有地域差异，未据此擅改。
+increment_5_to_20pct,2811510,豆汁,ご,f172e969t0,gloss,go,,go,日语读音ご及英文go与紧随其后的大豆浸泡研磨释义并不直观对应，可能涉及传统大豆原料称呼；现译也未处理为中文，需可靠术语来源后再改。
+increment_5_to_20pct,1953900,掴み,つかみ,f91e599t2,xref,scoring combination made with captured cards; meld,,由抓取的牌组成的计分组合；副露,花札语境的 scoring combination / meld 需要核实标准中文牌型术语；现译‘副露’是麻将专门术语，不能确认花札对应说法，暂不擅自替换。
+increment_5_to_20pct,1697020,組手,くみて,f68e305t7,gloss,yotsu-gumi clinch,,四股组手,相扑 yotsu-gumi clinch 是腰带抓握/四つ組み相扑姿势；中文‘四股组手’疑为误套‘四股’，但具体规范译名需要核实术语来源。
+increment_5_to_20pct,1299430,雑種,ざっしゅ,f27e243t3,example,Europe is a continent of energetic peoples.,ヨーロッパは強(きょう)力(りょく)な雑(ざっ)種(しゅ)民(みん)族(ぞく)大(たい)陸(りく)である。,欧洲是一个充满活力的混合民族大陆。,例句日文为「ヨーロッパは強力な雑種民族大陸である」，与英文 energetic peoples 及现译“充满活力的混合民族大陆”存在强力/活力等源文差异；表达还涉及作者对民族混合的修辞，暂不能可靠定稿，保持原文。
+increment_5_to_20pct,1272760,候補地,こうほち,f24e1432t1,gloss,site chosen,,候选地,EN site chosen 与本词头候補地（候选地点）存在已选定/候选状态差异；现译按日文为“候选地”，尚不清楚英文释义是宽泛表达还是实质矛盾，暂保留。
+increment_5_to_20pct,1939080,新聞配達,しんぶんはいたつ,f89e1901t2,gloss,new,,新的,「新聞配達」整体指送报/送报工作，但该字段英文单独为 new、中文为“新的”，与词头及同组其他送报义明显冲突；无法确认该字段原本想表达的子义，先保留并标疑。
+increment_5_to_20pct,2869616,タクト,タクト,f215e1183t3,gloss,tact (verbal operant),,言语行为,心理学/行为分析中的 tact (verbal operant) 是 Skinner 术语，现译“言语行为”过于泛化；其规范中文术语（如指称行为/命名行为）需要领域来源确认。
+increment_5_to_20pct,2869616,タクト,タクト,f215e1183t4,xref,mand (verbal operant),,言语行为,这是对 mand 这一心理学言语行为术语的 xref 释义，目前译“言语行为”未区分 tact 与 mand；需确认 mand 的规范中文术语后再修。
+increment_5_to_20pct,1794450,洋服屋,ようふくや,f77e1721t2,example,My dress was ruined when it came back from the cleaner's.,私の洋服屋から戻ってきた時に破れていた。,我的衣服从干洗店回来时已经破了。,例句日文写「私の洋服屋から戻ってきた時に破れていた」而英文是从干洗店回来，中文跟随英文；日英源句指涉有冲突，无法仅据现有文本确定正确事件。
+increment_5_to_20pct,1627070,日銭,ひぜに,f61e446t1,gloss,money paid by daily installments,,每日分期付款,日語日銭通常指每日现金收入或日结收入，但此英文义明确写 money paid by daily installments；原译“每日分期付款”忠实于英文，来源之间存在语义冲突，暂不改动。
+increment_5_to_20pct,1169650,引導,いんどう,f14e1242t0,gloss,last words recited to the newly departed,,临终开示,佛教术语引導指向亡者宣读的特定仪式用语，‘临终开示’可能把对象/时点提前到临终前；需确认具体汉传佛教仪式规范。
+increment_5_to_20pct,1169650,引導,いんどう,f14e1242t1,gloss,requiem,,安魂曲,requiem通常指安魂弥撒或安魂曲，与佛教引導仪式是否等值无法可靠确定，保留原译并标记待专业确认。
+increment_5_to_20pct,1324940,主,おも,f29e1322t7,gloss,main secondary or supporting role (in kyogen),,（狂言中的）主要次要角色或配角,狂言角色名称的专业划分无法仅凭此释义可靠确认，英文‘main secondary or supporting role’本身也含混；暂保留。
+increment_5_to_20pct,1324940,主,おも,f29e1322t9,xref,main deuteragonist; main secondary or supporting role,,主要次要角色；主要次要角色或配角,xref中main deuteragonist是特定戏剧角色称谓，难以确定狂言中的准确中文术语，暂保留。
+increment_5_to_20pct,1497760,符帳,ふちょう,f46e612t2,gloss,mark,,（秘密）暗号,该义项的日文词头符帳可指暗记/符号，英文 mark 也有一般标记和秘密标记义，现译‘（秘密）暗号’可能成立；因释义约束不足，暂不擅自替换。
+increment_5_to_20pct,1497760,符帳,ふちょう,f46e612t3,gloss,(secret) price mark,,暗语,符帳作为历史上的秘密价格标记/暗记，具体对应何种标价暗号形式无法仅凭通用释义确认；暂保留现译并待历史术语核对。
