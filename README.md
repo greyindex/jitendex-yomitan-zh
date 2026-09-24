@@ -6,6 +6,10 @@
 
 > 这是社区派生版本，不是 Jitendex 官方发布物。Jitendex 官方项目仍然是日英词典。
 
+## 其他语言版本
+
+- [日印尼语版](https://github.com/greyindex/jitendex-yomitan-id)：常用前 20% 提供印尼语释义，其余长尾词条保留英文。
+
 ## 下载与安装
 
 从 [Releases](https://github.com/greyindex/jitendex-yomitan-zh/releases/latest) 下载最新的 `jitendex-yomitan-zh-common20pct-gpt6-luna.zip`，然后在 Yomitan 的 **Dictionaries → Import** 中导入 ZIP 文件。
